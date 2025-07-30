@@ -25,7 +25,8 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 ├── extension/ # Extension-related logic/files
 │ └── extension.js # Extension entry (example)
 ├── .gitignore
-└── README.md ``` 
+└── README.md
+``` 
 
 ---
 
