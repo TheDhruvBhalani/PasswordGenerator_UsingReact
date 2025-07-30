@@ -1,0 +1,16 @@
+{
+    "name": "Password and Gmail Generator",
+    "description": "Generate accurate gmail adress and strong passwords",
+    "version" : "1.0",
+    "manifest_version": 3,
+    "permissions": ["tabs"], 
+    "background" :
+    {
+      "service_worker": "background.js"
+    },
+
+     "host_permissions": ["http://localhost:5173/"],
+    "action": {
+    "default_icon": "password-icon.png"
+  }
+}

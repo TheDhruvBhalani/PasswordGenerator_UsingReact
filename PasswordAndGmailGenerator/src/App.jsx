@@ -1,6 +1,6 @@
 
 import './App.css'
-import Component from '../Components/CommonBox'
+import Component from '../Components/Components'
 
 function App() {
   
