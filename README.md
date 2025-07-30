@@ -14,7 +14,18 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 
 ---
 
-```plaintext 📁 Project Root ├── index.html # Entry HTML ├── vite.config.js # Vite configuration ├── eslint.config.js # ESLint rules ├── package.json # Project metadata and scripts ├── tailwind.config.js # Tailwind config (if created) ├── src/ # React source files │ └── main.jsx # React entry ├── extension/ # Extension-related logic/files │ └── extension.js # Extension entry (example) ├── .gitignore └── README.md ``` 
+```plaintext 📁 Project Root 
+├── index.html # Entry HTML
+├── vite.config.js # Vite configuration
+├── eslint.config.js # ESLint rules
+├── package.json # Project metadata and scripts
+├── tailwind.config.js # Tailwind config (if created)
+├── src/ # React source files
+│ └── main.jsx # React entry
+├── extension/ # Extension-related logic/files
+│ └── extension.js # Extension entry (example)
+├── .gitignore
+└── README.md ``` 
 
 ---
 
