@@ -21,9 +21,11 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 ├── vite.config.js # Vite configuration
 ├── eslint.config.js # ESLint rules
 ├── package.json # Project metadata and scripts
-├── tailwind.config.js # (if created)
-├── src/ # Source files (React components)
-│ └── main.jsx # App entry
+├── tailwind.config.js # Tailwind config (if created)
+├── src/ # React source files
+│ └── main.jsx # React entry
+├── extension/ # Extension-related logic/files
+│ └── extension.js # Extension entry (example)
 ├── .gitignore
 ├── README.md
 
