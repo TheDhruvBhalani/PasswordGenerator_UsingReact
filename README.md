@@ -16,8 +16,6 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 
 ### 📁 Folder Structure
 
-.
-
 ├── index.html # Entry HTML
 ├── vite.config.js # Vite configuration
 ├── eslint.config.js # ESLint rules
