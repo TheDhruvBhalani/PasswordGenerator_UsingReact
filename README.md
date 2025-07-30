@@ -61,5 +61,6 @@ npm run build
 3. TailwindCSS
 4. ESLint
 
-👨‍💻 Author
-GitHub: [@TheDhruvBhalani](https://github.com/TheDhruvBhalani)
+## 👨‍💻 Author
+GitHub: 
+[@TheDhruvBhalani](https://github.com/TheDhruvBhalani)
