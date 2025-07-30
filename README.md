@@ -52,6 +52,7 @@ npm run lint
 # 5. (Optional) Build for production
 npm run build
 
+```
 
 🔧 Tech Stack
 
