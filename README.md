@@ -15,7 +15,8 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 ---
 
 ```plaintext
-📁 Project Root 
+## 📁 Project Root
+
 ├── index.html # Entry HTML
 ├── vite.config.js # Vite configuration
 ├── eslint.config.js # ESLint rules
