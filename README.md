@@ -29,10 +29,6 @@ A modern, lightweight React starter powered by **Vite** for fast development, st
 ├── .gitignore
 ├── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ### 🚀 Getting Started
