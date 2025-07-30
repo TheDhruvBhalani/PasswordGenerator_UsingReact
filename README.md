@@ -62,4 +62,4 @@ npm run build
 4. ESLint
 
 👨‍💻 Author
-GitHub: @TheDhruvBhalani([https://github.com/TheDhruvBhalani])
+GitHub: [@TheDhruvBhalani](https://github.com/TheDhruvBhalani)
